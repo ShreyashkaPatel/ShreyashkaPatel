@@ -8,4 +8,5 @@
 
 ### My plans
 - Learning Web Development.
-- Learing Java, DSA using Java.
+- Learning Java.
+- Learing DSA using Java.
